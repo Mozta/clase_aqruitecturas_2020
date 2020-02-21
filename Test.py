@@ -37,7 +37,7 @@ def main():
 
         F = Figura(5,5)
         R = Rectangulo(6,5)
-        T = Triangulo(3,7,6,5,4)
+        T = Triangulo(7,6,5,4)
         print((R.area()))
         print((T.area()))
         print((T.perimetro()))
